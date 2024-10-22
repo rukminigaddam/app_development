@@ -1,0 +1,14 @@
+
+body{
+    background: #e5c3e6
+}
+
+nav ul li {
+    color: black;
+    cursor: pointer;
+}
+
+#notes {
+    justify-content: center;
+}
+
